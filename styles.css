@@ -44,7 +44,7 @@ body {
     transition: .4s ease;
     box-shadow: 0 20px 20px -10px #111;
     letter-spacing: 1px;
-    
+    transition: ease-in 2s;
 }
 
 .btn:hover {
