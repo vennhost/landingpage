@@ -40,7 +40,7 @@ body {
     color: #4776E6 !important;
     border-radius: 45px !important;
     outline:none;
-    font-weight: bold;
+    font-weight: bold !important;
     transition: .4s ease;
     box-shadow: 0 20px 20px -10px #111;
     letter-spacing: 1px;
